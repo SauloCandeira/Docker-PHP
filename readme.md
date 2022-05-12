@@ -5,7 +5,7 @@ Estudos utilizando o Docker + PHP
 - Docker Compose
 
 
-### COMANDOS DOCKER FILE
+### CONFIG NGINX
 
 ```
 1º - 

@@ -3,6 +3,7 @@ Estudos utilizando o Docker + PHP
 
 - Nginx
 - Docker Compose
+- Laravel
 
 
 ### CONFIG NGINX

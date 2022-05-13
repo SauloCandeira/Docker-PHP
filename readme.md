@@ -26,7 +26,7 @@ Estudos utilizando o Docker + PHP
 ```
 1º - Iniciar docker: docker-compose up
 2º - Url: http://app.localhost/
-3º -
+3º - Build:  docker-compose up -d --build
 ```
 
 

@@ -37,9 +37,9 @@ flowchart LR
 B[Docker]
 
 B --> C{Conteiners}
-C --> J[Front-End]
-C --> K[Database]
-C --> L[API]
+C --> J[Nginx]
+C --> K[PHP]
+C --> L[Laravel]
 ```
 
 

@@ -5,7 +5,7 @@ Estudos utilizando o Docker + PHP
 - Docker Compose
 - Laravel
 
-### CONFIG NGINX
+### NGINX
 
 ```
 1º - 
@@ -13,7 +13,7 @@ Estudos utilizando o Docker + PHP
 3º -
 ```
 
-### COMANDOS DOCKER COMPOSE
+### DOCKER COMPOSE
 
 ```
 1º - Iniciar docker: docker-compose up
@@ -21,7 +21,7 @@ Estudos utilizando o Docker + PHP
 3º -
 ```
 
-### COMANDOS LARAVEL
+### LARAVEL
 
 ```
 1º - Iniciar docker: docker-compose up

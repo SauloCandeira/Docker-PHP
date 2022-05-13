@@ -5,7 +5,6 @@ Estudos utilizando o Docker + PHP
 - Docker Compose
 - Laravel
 
-
 ### CONFIG NGINX
 
 ```
@@ -15,6 +14,14 @@ Estudos utilizando o Docker + PHP
 ```
 
 ### COMANDOS DOCKER COMPOSE
+
+```
+1º - Iniciar docker: docker-compose up
+2º - Url: http://app.localhost/
+3º -
+```
+
+### COMANDOS LARAVEL
 
 ```
 1º - Iniciar docker: docker-compose up
@@ -34,6 +41,8 @@ C --> J[Front-End]
 C --> K[Database]
 C --> L[API]
 ```
+
+
 
 ### FONTE:
 Ambiente de desenvolvimento Docker - Github: (url: https://github.com/marcossaore/ambiente-dev-docker)

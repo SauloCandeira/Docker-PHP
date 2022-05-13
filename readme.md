@@ -24,9 +24,9 @@ Estudos utilizando o Docker + PHP
 ### LARAVEL
 
 ```
-1º - Iniciar docker: docker-compose up
-2º - Url: http://app.localhost/
-3º - Build:  docker-compose up -d --build
+1º - Build:  docker-compose up -d --build
+2º - Create laravel project: docker-compose run composer create-project --prefer-dist laravel/laravel .
+3º - 
 ```
 
 

@@ -45,12 +45,6 @@ C --> L[Laravel]
 
 
 ### FONTE:
-Ambiente de desenvolvimento Docker - Github: (url: https://github.com/marcossaore/ambiente-dev-docker)
-Ambiente de desenvolvimento Docker - Medium: (url: https://medium.com/4yousee/infraestrutura-em-ambiente-de-desenvolvimento-com-docker-parte-1-eb28507d5eca)
-
-
-### 1.0 - CICLO DE VIDA
-
 <ul>
   
   <li>

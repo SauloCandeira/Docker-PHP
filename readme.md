@@ -54,19 +54,14 @@ Ambiente de desenvolvimento Docker - Medium: (url: https://medium.com/4yousee/in
 <ul>
   
   <li>
-    <p><b><code>1.1 - [] </code></b></p>
-    <p><i> Instrução:  </i></p>
+    <p><b><code>Tutorial de configuração de ambiente de desenvolvimento no Docker.</code></b></p>
+    <p><i>URL: https://github.com/marcossaore/ambiente-dev-docker </i></p>
   </li>
   
   <li>
-    <p><b><code>1.2 - [] </code></b></p>
-    <p><i> Fase-1:  </i></p>
+    <p><b><code>Configuração de Ambiente PHP 7 e Nginx com Docker.</code></b></p>
+    <p><i>URL: https://medium.com/4yousee/infraestrutura-em-ambiente-de-desenvolvimento-com-docker-parte-1-eb28507d5eca  </i></p>
   </li> 
-  
-  <li>
-    <p><b><code>1.3 - [] </code></b></p>
-    <p><i>  </i></p>
-  </li>
   
 </ul>
 
